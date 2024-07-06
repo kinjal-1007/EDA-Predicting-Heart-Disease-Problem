@@ -26,11 +26,14 @@ The CatBoost Classifer provides accuracy of 85.25%.
    cd EDA-Predicting-Heart-Disease-Problem
 
 2. Create and activate the conda environment:
+   ```sh
    conda create --name your-env-name python=3.8
    conda activate your-env-name
 
 3. Install dependencies from requirements.txt:
+   ```sh
    pip install -r requirements.txt
 
-4. pip install -r requirements.txt
+4. pip install -r requirements.txt:
+   ```sh
    jupyter notebook heart-disease-classification.ipynb

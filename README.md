@@ -9,6 +9,7 @@ The following models are used and their score is compared:
 - CatBoost Classifier
 
 The GridSearchCV Logistic Regression model achieves a maximum accuracy of 88.52%.
+
 The CatBoost Classifer provides accuracy of 85.25%.
 
 ## Project Structure
